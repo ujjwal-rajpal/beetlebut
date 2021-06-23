@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "beetlebut"
+    }
+  },
+  "defaultProject": "beetlebut",
+  "cli": {
+    "analytics": false
+  }
 }
