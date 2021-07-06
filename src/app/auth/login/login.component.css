@@ -1,0 +1,9 @@
+.mainDiv mat-card{
+    padding: 0px;
+}
+.loginForm{
+    padding: 7px;
+}
+form a{
+    text-decoration: none;
+}
